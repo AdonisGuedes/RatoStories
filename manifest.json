@@ -1,7 +1,15 @@
 {
-    "name": "RatoStories",
-    "short_name": "RatoStories",
-    "start_url": "index.html",
+  
+    "background_color": "#ffffff",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "ratostories.netlify",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "ratostories.netlify",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+  
     "icons": 
     [
       {
@@ -171,7 +179,5 @@
       }
     ],
     "theme-color": "#242c44",
-  "background-color": "#242c44",
-  "display": "fullscreen",
-  "orientation": "any"
+  "background-color": "#242c44"
   }
