@@ -3,6 +3,8 @@
     "name": "RatoStories",
     "short_name": "ratostories",
     "start_url": "index.html",
+    "theme-color": "#242c44",
+    "background-color": "#242c44",
   
     "icons": [
 
@@ -171,7 +173,5 @@
     ],
 
     "orientation": "any",
-    "theme-color": "#242c44",
-  "background-color": "#242c44",
   "display": "fullscreen"
   }
