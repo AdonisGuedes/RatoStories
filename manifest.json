@@ -1,14 +1,8 @@
 {
   
-    "background_color": "#ffffff",
-    "dir": "ltr",
-    "display": "standalone",
     "name": "RatoStories",
-    "orientation": "any",
-    "scope": "/",
     "short_name": "ratostories",
-    "start_url": "/",
-    "theme_color": "#ffffff",
+    "start_url": "index.html",
   
     "icons": 
     [
@@ -174,6 +168,8 @@
         "type": "image/png"
       }
     ],
+    
+    "orientation": "any",
     "theme-color": "#242c44",
   "background-color": "#242c44"
   }
