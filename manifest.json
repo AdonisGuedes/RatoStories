@@ -146,8 +146,7 @@
       {
         "src": "icons/ios/180.png",
         "sizes": "180x180",
-        "type": "image/png",
-        "purpose": "any maskable"
+        "type": "image/png"
 
       },
       {
