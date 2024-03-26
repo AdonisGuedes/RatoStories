@@ -11,6 +11,13 @@
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	<body class="is-preload">
 
+<script>
+	if (typeof navigator.serviceWorker !== 'undefined') 
+	{
+		navigator.serviceWorker.register('pwabuilder-sw.js')
+	}
+</script>
+
 		<!-- Wrapper -->
 			<div id="wrapper">
 
