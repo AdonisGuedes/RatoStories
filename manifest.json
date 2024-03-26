@@ -179,7 +179,8 @@
       }
       
     ],
-
+    "theme-color": "#242c44",
+    "background-color": "#242c44",
     "orientation": "any",
   "display": "fullscreen"
   }
